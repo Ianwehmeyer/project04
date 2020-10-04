@@ -11,3 +11,8 @@ DATABASES = {
         'PORT': '3306'
     }
 }
+pythong manage.py runserver
+
+django-admin startproject stockapp1
+
+cd stockapp1
